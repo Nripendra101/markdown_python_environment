@@ -5,5 +5,6 @@ manager, setting up of virtual environments, installing jupyter notebook extensi
 
 ##  Install VS Code
 1.Install VS Code-https://code.visualstudio.com/
+2.Install jupyter extension in VS code
 
 
