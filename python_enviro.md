@@ -4,6 +4,6 @@ The following are the steps to install VS Code and setup python environment. Thi
 manager, setting up of virtual environments, installing jupyter notebook extension etc.
 
 ##  Install VS Code
-1.Install VS Code-[https://code.visualstudio.com/]
+1.Install VS Code-(https://code.visualstudio.com/)
 
 
